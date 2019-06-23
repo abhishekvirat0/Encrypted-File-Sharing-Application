@@ -2,8 +2,8 @@
 
 # Objective: 
 
-The main objective of the project:
-•	Sharing File Within a Network With Encryption.
+  The main objective of the project.
+  Sharing File Within a Network With Encryption.
 
 # Benefits:
 	
