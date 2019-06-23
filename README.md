@@ -23,3 +23,6 @@ The main objective of the project:
 
 # Connectivity: 
   Without internet connection this project is not workable.
+  
+# Screenshots
+  https://github.com/abhishekvirat0/Encrypted-File-Sharing-Application/tree/master/screenshots
