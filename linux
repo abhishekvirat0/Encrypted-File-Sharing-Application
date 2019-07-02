@@ -1,0 +1,10 @@
+printk() is the kernel's function for code to print messages.
+it is sent to ram buffer and the system console.
+dmesg shows ram buffer messages from kernel
+tail -f /var/log/messages is handy
+dmesg | wc -l total no. of lines.
+virtual file system - proc(cd /proc) and sysfs (info is generated when you ask for that).
+proc-contains lots of process info and lots more.
+sys- /sys represets kernel objects,main motivation was hardware conn activity,whats connected to what,
+ echo hi > /dev/null that means 
+/dev - device files are.
