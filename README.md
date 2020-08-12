@@ -25,4 +25,4 @@
   Without internet connection this project is not workable.
   
 # Screenshots
-  https://github.com/abhishekvirat0/Encrypted-File-Sharing-Application/tree/master/screenshots
+  ![File Transfer App](https://github.com/abhishekvirat0/Encrypted-File-Sharing-Application/tree/master/screenshots/screenshot2.jpg)
